@@ -10,21 +10,17 @@
 # 📊 GitHub Stats:
 <div align="left">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Idrees-101&theme=radical" alt="GitHub Streak" />
-
   <br/>
-
- />
 </div>
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Idrees-101&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Idrees-101&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Muhammad-Idrees-101&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo" />
-
+<img src="https://github-contributor-stats.vercel.app/api?username=Muhammad-Idrees-101&limit=5&theme=radical" alt="Top Repo" />
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Idrees-101&icon=0&color=0)](https://visitcount.itsvg.in)
 
