@@ -14,19 +14,14 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Idrees-101&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
-  <br/>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=Muhammad-Idrees-101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo:
-<div align="left">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Idrees-101&repo=Ai-Agent&theme=radical" alt="Top Repo" />
-    <br/>
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Idrees-101&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Idrees-101&icon=0&color=0)](https://visitcount.itsvg.in)
 
