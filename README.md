@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently working on: Ai Agent<br><br>👯 I’m looking to collaborate on: Open-source Next.js components or SaaS starter templates.<br><br>🤝 I’m looking for help with: Mastering complex 3D rendering and advanced physics in React Three Fiber.<br><br>🌱 I’m currently learning: Advanced Framer Motion techniques and Three.js for deeper web immersion.<br><br>💬 Ask me about: Next.js (App Router), Tailwind CSS, React ,MongoDB and MySQL
+I’m currently working on: Ai Agent<br><br> I’m looking to collaborate on: Open-source Next.js components or SaaS starter templates.<br><br> I’m looking for help with: Mastering complex 3D rendering and advanced physics in React Three Fiber.<br><br> I’m currently learning: Advanced Framer Motion techniques and Three.js for deeper web immersion.<br><br> Ask me about: Next.js (App Router), Tailwind CSS, React ,MongoDB and MySQL
 
 
 ## Socials:
