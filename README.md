@@ -55,12 +55,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Idrees-101&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Idrees-101&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Idrees-101&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Idrees-101&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Idrees-101&layout=compact&theme=radical&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Idrees-101&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="55%" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Idrees-101&theme=redical&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Idrees-101&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00C7B7&line=00C7B7&point=ffffff" width="90%" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/Muhammad-Idrees-101/Muhammad-Idrees-101/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
-> ⚠️ Snake animation needs one-time GitHub Action setup — see note at bottom.
+> ⚠️ Blank til Action run once. Setup below.
 
 ---
 
