@@ -52,15 +52,15 @@
 
 ---
 
-### GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Idrees-101&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Idrees-101&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
   <img src="https://streak-stats.demolab.com?user=Muhammad-Idrees-101&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Idrees-101&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="55%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Idrees-101&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="55%" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Idrees-101&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00C7B7&line=00C7B7&point=ffffff" width="90%" />
@@ -77,7 +77,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Muhammad-Idrees-101/WORKFLOWS/output/github-contribution-grid-snake-dark.svg" width="90%" />
@@ -98,5 +98,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Muhammad-Idrees-101&icon=0&color=0" />
 </p>
-
-<p align="center"><i>Proudly crafted with ❤️ — built for GitHub Profile README</i></p>
