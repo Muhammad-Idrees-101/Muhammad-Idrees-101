@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Frontend**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Idrees-101&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
@@ -80,14 +80,14 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Idrees-101/Muhammad-Idrees-101/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Idrees-101/WORKFLOWS/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
-> ⚠️ Blank til Action run once. Setup below.
+>  Blank til Action run once. Setup below.
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
