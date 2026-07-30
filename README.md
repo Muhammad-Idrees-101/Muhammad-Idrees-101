@@ -24,7 +24,7 @@
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 **Frontend**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Idrees-101&theme=radical&no-frame=false&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Idrees-101&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 </p>
 
 ---
@@ -96,5 +96,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Muhammad-Idrees-101&icon=0&color=0" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhammad-Idrees-101&count_bg=%2300C7B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" />
 </p>
+
+<p align="center"><i>Proudly crafted with ❤️ — built for GitHub Profile README</i></p>
