@@ -52,23 +52,6 @@
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Idrees-101&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Idrees-101&theme=radical&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Idrees-101&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="55%" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Top_Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
 ###  Contribution Graph
 
 <p align="center">
@@ -86,12 +69,3 @@
 >  Blank til Action run once. Setup below.
 
 ---
-
-###  Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
