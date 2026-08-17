@@ -16,7 +16,6 @@
 
 ###  About Me
 
--  Currently building: **AI Agents**
 -  Open to collab: **Open-source Next.js components / SaaS starter templates**
 -  Learning: **Advanced Framer Motion + Three.js (deep web immersion)**
 -  Need help with: **Complex 3D rendering & physics in React Three Fiber**
