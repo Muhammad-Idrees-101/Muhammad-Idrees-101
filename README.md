@@ -54,7 +54,7 @@
 ###  Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Idrees-101&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00C7B7&line=00C7B7&point=ffffff" width="90%" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Muhammad-Idrees-101&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00C7B7&line=00C7B7&point=ffffff" width="90%" />
 </p>
 
 ---
