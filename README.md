@@ -31,25 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Idrees-101&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Idrees-101&theme=radical&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Idrees-101&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-105+-FF4785?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Longest_Streak-3_days-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top_Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -64,12 +45,3 @@
   <img src="https://raw.githubusercontent.com/Muhammad-Idrees-101/WORKFLOWS/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
-> ⚠️ Blank til Action run once. Setup below.
-
----
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhammad-Idrees-101&count_bg=%2300C7B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" />
-</p>
-
-<p align="center"><i>Proudly crafted with ❤️ — built for GitHub Profile README</i></p>
